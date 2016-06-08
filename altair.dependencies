@@ -6,10 +6,10 @@
         "revision": "cm-13.0"
     },
     {
-        "remote": "cm",
-        "repository": "CyanogenMod/android_device_htc_m8-common",
+        "remote": "altair",
+        "repository": "Altair-Devices/android_device_htc_m8-common",
         "target_path": "device/htc/m8-common",
-        "revision": "cm-13.0"
+        "revision": "mm"
     },
     {
         "remote": "cm",
