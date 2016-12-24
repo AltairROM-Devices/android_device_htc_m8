@@ -20,9 +20,6 @@ $(call inherit-product, device/htc/m8/device.mk)
 # Inherit some common Altair stuff.
 $(call inherit-product, vendor/altair/config/common_full_phone.mk)
 
-# Enhanced NFC
-$(call inherit-product, vendor/altair/config/nfc_enhanced.mk)
-
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := altair_m8
 PRODUCT_DEVICE := m8
