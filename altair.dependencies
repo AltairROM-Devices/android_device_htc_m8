@@ -12,10 +12,10 @@
         "revision": "cm-13.0"
     },
     {
-        "remote": "cm",
-        "repository": "LineageOS/android_device_htc_msm8974-common",
+        "remote": "altair",
+        "repository": "Altair-Devices/android_device_htc_msm8974-common",
         "target_path": "device/htc/msm8974-common",
-        "revision": "cm-13.0"
+        "revision": "mm"
     },
     {
         "remote": "cm",
