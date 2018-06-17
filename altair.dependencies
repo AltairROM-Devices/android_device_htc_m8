@@ -1,0 +1,32 @@
+[
+  {
+    "remote": "altair",
+    "repository": "AltairROM-Devices/android_device_htc_m8-common",
+    "target_path": "device/htc/m8-common",
+    "revision": "v10"
+  },
+  {
+    "remote": "lineage",
+    "repository": "android_device_htc_msm8974-common",
+    "target_path": "device/htc/msm8974-common",
+    "revision": "lineage-17.1"
+  },
+  {
+    "remote": "lineage",
+    "repository": "android_kernel_htc_msm8974",
+    "target_path": "kernel/htc/msm8974",
+    "revision": "lineage-17.1"
+  },
+  {
+    "remote": "lineage",
+    "repository": "android_hardware_sony_thermanager",
+    "target_path": "hardware/sony/thermanager",
+    "revision": "lineage-17.1"
+  },
+  {
+    "remote": "tm",
+    "repository": "proprietary_vendor_htc",
+    "target_path": "vendor/htc",
+    "revision": "lineage-17.1"
+  }
+]
