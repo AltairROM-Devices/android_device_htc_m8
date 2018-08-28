@@ -15,7 +15,7 @@
         "remote": "altair",
         "repository": "Altair-Devices/android_device_htc_msm8974-common",
         "target_path": "device/htc/msm8974-common",
-        "revision": "mm"
+        "revision": "m"
     },
     {
         "remote": "cm",
